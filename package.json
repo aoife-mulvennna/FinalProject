@@ -1,0 +1,20 @@
+{
+  "name": "sourcefilesproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "4.1",
+    "mongoose": "^8.4.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
